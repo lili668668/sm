@@ -1,0 +1,18 @@
+{
+  "main": "sm.html",
+  "name": "Screen message",
+  "description": "Screen message",
+  "version": "1.0",
+  "keywords": [ "Screen message" ],
+  "window": {
+    "title": "Screen message",
+    "toolbar": false,
+    "position": "mouse",
+    "fullscreen": true,
+    "min_width": 960,
+    "min_height": 600
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
